@@ -1,0 +1,11 @@
+[project]
+name = "zfn-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pyquery==1.4.3",
+    "requests==2.27.1",
+    "rsa==4.8",
+]
